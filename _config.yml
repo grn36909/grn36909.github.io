@@ -1,40 +1,59 @@
-# Jekyll configuration
+# Site settings
+title: Another Blog
+url: "https://grn36909.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+#timezone: Asia/Chongqing
+description: >
+  One or more sentences introducing this blog.
 
-name: My blog
-description: A jekyll theme
+# Your information
+email: your_email@example.com
+author: your_name
+avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+profile: One sentence introducing yourself.
+#twitter_username: twitter_username
+#github_username:  github_username
+profile_links:
+  Email: "mailto:your_email@example.com"
+  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  # You can add more profile links above, or edit _includes/sidebar.html 
 
-# url is currently only used only for the RSS feed in feed.xml
-url: https://grn36909.github.io/
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: 
+excerpt_separator: <!--more-->
 
-# These can be '' to hide the Github or Gitlab nav buttons
-github: 'scotte/jekyll-clean'
-gitlab: ''
+header:
+  links:             # Links on the header. Link to in-site page with a slash as prefix
+    About: /about/
+    Category: /category/
+    Donate: https://laobubu.net/donate.html
 
-# Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
+permalink: /archivers/:title
+plugins:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
 
-# The 'comments' setting enables comments. You'll need to select either
-# disqus or isso below to choose a comment system. Individual posts can
-# override 'comments' to disable on a post-by-post basis.
-comments: true
-
-# Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
-isso: ''
-
-# Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
-disqus: ''
-
-permalink: /:year/:month/:title
-paginate: 3
+# Build settings
+paginate: 5
+paginate_path: "page:num"
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
 
-exclude: ['README.md', 'LICENSE']
+# https://jekyllrb.com/docs/configuration/#precedence
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
