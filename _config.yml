@@ -4,7 +4,8 @@ title: Another Blog
 url: "https://grn36909.github.io"
 # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 baseurl: ""
-#timezone: Asia/Chongqing
+#
+timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
 
