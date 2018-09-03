@@ -1,8 +1,10 @@
 ---
 title: Hello World
-subtitle: jekyll test
+subtitle: Jekyll test
+date: 2018-09-03
+tags: Jekyll
 ---
 
 # Hello World!
 
-just a test post.
+just a Jekyll test post.
