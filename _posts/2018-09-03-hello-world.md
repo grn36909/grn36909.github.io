@@ -1,6 +1,6 @@
 ---
-title: hello world
-subtitle: yeah
+title: Hello World
+subtitle: jekyll test
 ---
 
 # Hello World!
