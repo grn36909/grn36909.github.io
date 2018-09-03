@@ -3,6 +3,8 @@
 name: grn36909's blog
 description: Welcom to my blog. 欢迎访问我的博客。
 
+include: [/_post]
+
 # url is currently only used only for the RSS feed in feed.xml
 url: "https://grn36909.github.io"
 
@@ -13,7 +15,7 @@ url: "https://grn36909.github.io"
 baseurl: ""
 
 # These can be '' to hide the Github or Gitlab nav buttons
-github: "grn36909/grn36909.github.io"
+github: "grn36909"
 gitlab: ""
 
 # Set this to your UA-# value, or '' to disable the block completely
