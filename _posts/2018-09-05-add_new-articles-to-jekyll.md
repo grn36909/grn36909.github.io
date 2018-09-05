@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "向 jekyll Blog中添加新的文章"
+date:   2019-09-05 19:25 UTC+8
+categories: jekyll
+permalink: /archivers/jekyll/learn02
+---
+
 # 向 jekyll Blog中添加新的文章
 
 ## 1. jekyll Blog 目录结构
@@ -39,7 +47,28 @@
 
 具体的 `MarkDown` 文件书写规范请自行 `Google`
 
-## 3. 上传文章 到 jekyll Blog
+## 3. 添加头信息到文件
+
+详细参考：http://jekyllcn.com/docs/frontmatter/  
+
+添加头信息到文件的最前面
+```
+---
+layout: post
+title:  "向 jekyll Blog中添加新的文章"
+date:   2019-09-05 19:25 UTC+8
+categories: jekyll
+permalink: /archivers/jekyll/learn02
+---
+```
+
+- layout： 指定文章所使用的模板
+- title：指定文章的标题
+- date：（可选）指定文章的日期，该设置优先于文件的日期属性
+- categories：（可选）指定文章的分类
+- permalink：（可选）指定文章的永久链接（短链接）
+
+## 4. 上传文章 到 jekyll Blog
 
 用户在本地磁盘中编写 `MarkDown` 格式的文件，并保存为 `YYYY-MM-DD-文件名.md` 格式的文件名。
 将文件复制到本地磁盘的 `_posts` 文件夹中，并通过 `git` 或 `github desktop` 程序同步到 `github` 端
