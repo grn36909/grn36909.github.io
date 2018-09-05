@@ -77,6 +77,6 @@ permalink: /archivers/jekyll/learn02
 
 通过浏览器访问 github pages 地址
 
-## 前文
+## 前文回顾
 
-[jekyll简易教程 -- 1.使用 github pages 建立 jekyll 博客](https://grn36909.github.io/archivers/jekyll/learn01)  
+[1.使用 github pages 建立 jekyll 博客](https://grn36909.github.io/archivers/jekyll/learn01)  
