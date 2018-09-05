@@ -12,8 +12,8 @@ description: >
 # Your information
 email: your_email@example.com
 author: grn36909
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+avatar: "//grn36909.github.io/assets/main/user.jpg"
+profile: jekyll blog 建设中.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -30,8 +30,8 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
-    About: /about/
-    Category: /category/
+    About / 关于我: /about/
+    Category / 文章分类: /category/
 
 permalink: /archivers/:title
 plugins:
