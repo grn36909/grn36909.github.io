@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "向 jekyll Blog中添加新的文章"
+title:  "jekyll简易教程 -- 2.向 jekyll Blog中添加新的文章"
 date:   2019-09-05 19:25 UTC+8
 categories: jekyll
 permalink: /archivers/jekyll/learn02
 ---
 
-# 向 jekyll Blog中添加新的文章
+# jekyll简易教程 -- 2.向 jekyll Blog中添加新的文章
 
 ## 1. jekyll Blog 目录结构
 
