@@ -73,7 +73,8 @@ permalink: /archivers/jekyll/learn02
 用户在本地磁盘中编写 `MarkDown` 格式的文件，并保存为 `YYYY-MM-DD-文件名.md` 格式的文件名。
 将文件复制到本地磁盘的 `_posts` 文件夹中，并通过 `git` 或 `github desktop` 程序同步到 `github` 端
 
-## 4. 查看文章
+## 5. 查看文章
 
 通过浏览器访问 github pages 地址
 
+前文：[jekyll简易教程 -- 1.使用 github pages 建立 jekyll 博客](https://grn36909.github.io/archivers/jekyll/learn01)
