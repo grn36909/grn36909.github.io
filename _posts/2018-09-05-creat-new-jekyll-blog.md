@@ -99,36 +99,28 @@ baseurl: blog路径,通常为空,既""
 如果未显示 blog 页面，请等待几分钟让 github 完成缓存，
 或者清空浏览的`缓存`及`cookies`后再次访问页面。
 
-继续阅读：[2.向 jekyll Blog中添加新的文章](https://grn36909.github.io/archivers/jekyll/learn02)
+## 继续阅读
+
+[2.向 jekyll Blog中添加新的文章](https://grn36909.github.io/archivers/jekyll/learn02)
 
 ## 本文参考资源
 
-从零开始折腾Jekyll - 使用Jekyll模板 - biubiu  
-http://bluebiu.com/blog/learn-to-use-jekyll.html  
+[从零开始折腾Jekyll - 使用Jekyll模板 - biubiu](http://bluebiu.com/blog/learn-to-use-jekyll.html)  
 
-使用Jekyll + GitHub Pages搭建个人博客 - Xuelong_li  
-https://www.jianshu.com/p/3caaed303880  
+[使用Jekyll + GitHub Pages搭建个人博客 - Xuelong_li](https://www.jianshu.com/p/3caaed303880)  
 
-Jekyll搭建Github写作环境 - Titan_LEE  
-https://www.jianshu.com/p/ba240efbfe27  
+[Jekyll搭建Github写作环境 - Titan_LEE](https://www.jianshu.com/p/ba240efbfe27)  
 
-三分钟在GitHub上搭建个人博客 - 天之蓝源  
-https://zhuanlan.zhihu.com/p/28321740  
+[三分钟在GitHub上搭建个人博客 - 天之蓝源](https://zhuanlan.zhihu.com/p/28321740)  
 
-使用github pages搭建个人免费博客 - Yiweiwoshiniya  
-https://www.jianshu.com/p/fabb01427203  
+[使用github pages搭建个人免费博客 - Yiweiwoshiniya](https://www.jianshu.com/p/fabb01427203)  
 
-如何快速搭建自己的github.io博客 - keysaim  
-https://keysaim.github.io/post/blog/2017-08-15-how-to-setup-your-github-io-blog/  
+[如何快速搭建自己的github.io博客 - keysaim](https://keysaim.github.io/post/blog/2017-08-15-how-to-setup-your-github-io-blog/)  
 
-将纯文本转换为静态博客网站 - jekyllcn  
-http://jekyllcn.com/  
+[将纯文本转换为静态博客网站 - jekyllcn](http://jekyllcn.com/)  
 
-如何用github page搭建博客？ - 知乎  
-https://www.zhihu.com/question/59088760  
+[如何用github page搭建博客？ - 知乎](https://www.zhihu.com/question/59088760)  
 
-有哪些简洁明快的 Jekyll 模板？- 知乎  
-https://www.zhihu.com/question/20223939  
+[有哪些简洁明快的 Jekyll 模板？- 知乎](https://www.zhihu.com/question/20223939)  
 
-我的个人博客之旅：从jekyll到hexo - WordZzzz  
-https://blog.csdn.net/u011475210/article/details/79023429  
+[我的个人博客之旅：从jekyll到hexo - WordZzzz](https://blog.csdn.net/u011475210/article/details/79023429)  
