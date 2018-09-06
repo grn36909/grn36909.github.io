@@ -6,6 +6,8 @@ categories: jekyll
 permalink: /archivers/jekyll/learn02
 ---
 
+![jekyll]({{ site.url }}/assets/2018-09-05-add_new-articles-to-jekyll/jekyll.jpg)
+
 # jekyll简易教程 -- 2.向 jekyll blog中添加新的文章
 
 ## 1. jekyll Blog 目录结构

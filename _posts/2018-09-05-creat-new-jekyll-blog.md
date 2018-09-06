@@ -2,9 +2,11 @@
 layout: post
 title:  "jekyll简易教程 -- 1.使用 github pages 和 jekyll 建立博客"
 date:   2019-09-05 13:49 UTC+8
-categories: jekyll
+categories: jekyll github
 permalink: /archivers/jekyll/learn01
 ---
+
+![github pages]({{ site.url }}/assets/2018-09-05-creat-new-jekyll-blog/github_page.png)
 
 # jekyll简易教程 -- 1.使用 github pages 和 jekyll 建立博客
 
