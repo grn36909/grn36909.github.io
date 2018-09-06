@@ -102,10 +102,12 @@ Markdown语法主要分为如下几大部分：
 代码区块的建立是在每行加上4个空格或者一个制表符（如同写代码一样）。如    
 普通段落：  
 
-void main()    
-{    
-    printf("Hello, Markdown.");    
-}    
+```markdown
+    void main()    
+    {    
+        printf("Hello, Markdown.");    
+    }    
+```
 
 代码区块：
 
@@ -130,7 +132,7 @@ for i in range(1, 5):
 \```c  
 for(i=1; i<=5; i++){  
     printf("hello world! $s", you_name);  
-    }  
+}  
 \```  
 
 ```c
