@@ -201,7 +201,9 @@ for(i=1; i<=5; i++){
 
 #### 4.9 图片
 添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。
-> ![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)  
+```markdown
+![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)  
+```
 
 ![markdown]({{ site.url }}/assets/2018-09-06-start-markdown-work/markdown1.jpg)  
 
@@ -245,6 +247,13 @@ Markdown的使用者：
 列表的使用(非traditonal markdown)：
 
 用`|`表示表格纵向边界，表头和表内容用`-`隔开，并可用`:`进行对齐设置，两边都有`:`则表示居中，若不加`:`则默认左对齐。
+
+```markdown
+|代码库          |链接                                |
+|:--------------:|------------------------------------|
+|MarkDown        |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
+|MarkDownCopy    |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
+```
 
 |代码库          |链接                                |
 |:--------------:|------------------------------------|
