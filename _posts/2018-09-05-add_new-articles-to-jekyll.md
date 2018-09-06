@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "jekyll简易教程 -- 2.向 jekyll Blog中添加新的文章"
+title:  "jekyll简易教程 -- 2.向 jekyll blog中添加新的文章"
 date:   2019-09-05 19:25 UTC+8
 categories: jekyll
 permalink: /archivers/jekyll/learn02
 ---
 
-# jekyll简易教程 -- 2.向 jekyll Blog中添加新的文章
+# jekyll简易教程 -- 2.向 jekyll blog中添加新的文章
 
 ## 1. jekyll Blog 目录结构
 
@@ -79,4 +79,8 @@ permalink: /archivers/jekyll/learn02
 
 ## 前文回顾
 
-[1.使用 github pages 建立 jekyll 博客](https://grn36909.github.io/archivers/jekyll/learn01)  
+[1.使用 github pages 和 jekyll 建立博客](https://grn36909.github.io/archivers/jekyll/learn01)  
+
+## 继续阅读
+
+[3.Markdown 指南](https://grn36909.github.io/archivers/jekyll/learn03)

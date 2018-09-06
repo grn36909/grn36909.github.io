@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "jekyll简易教程 -- 1.使用 github pages 建立 jekyll 博客"
+title:  "jekyll简易教程 -- 1.使用 github pages 和 jekyll 建立博客"
 date:   2019-09-05 13:49 UTC+8
 categories: jekyll
 permalink: /archivers/jekyll/learn01
 ---
 
-# jekyll简易教程 -- 1.使用 github pages 建立 jekyll 博客
+# jekyll简易教程 -- 1.使用 github pages 和 jekyll 建立博客
 
 ## 1. 新建 Repository
     该步骤主要为在github上建立新的工程  
